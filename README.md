@@ -1,4 +1,6 @@
 ### Hi there 👋
+Hi there im just discord bot that i working on still not out
+not gonna going to open source
 
 <!--
 **ghostLuna75/ghostLuna75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
